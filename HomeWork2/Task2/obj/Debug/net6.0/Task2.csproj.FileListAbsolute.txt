@@ -1,0 +1,15 @@
+D:\GeekBrains\IntroducingToProgLang\HomeWorks\HomeWork2\Task2\bin\Debug\net6.0\Task2.exe
+D:\GeekBrains\IntroducingToProgLang\HomeWorks\HomeWork2\Task2\bin\Debug\net6.0\Task2.deps.json
+D:\GeekBrains\IntroducingToProgLang\HomeWorks\HomeWork2\Task2\bin\Debug\net6.0\Task2.runtimeconfig.json
+D:\GeekBrains\IntroducingToProgLang\HomeWorks\HomeWork2\Task2\bin\Debug\net6.0\Task2.dll
+D:\GeekBrains\IntroducingToProgLang\HomeWorks\HomeWork2\Task2\bin\Debug\net6.0\Task2.pdb
+D:\GeekBrains\IntroducingToProgLang\HomeWorks\HomeWork2\Task2\obj\Debug\net6.0\Task2.csproj.AssemblyReference.cache
+D:\GeekBrains\IntroducingToProgLang\HomeWorks\HomeWork2\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\IntroducingToProgLang\HomeWorks\HomeWork2\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+D:\GeekBrains\IntroducingToProgLang\HomeWorks\HomeWork2\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+D:\GeekBrains\IntroducingToProgLang\HomeWorks\HomeWork2\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+D:\GeekBrains\IntroducingToProgLang\HomeWorks\HomeWork2\Task2\obj\Debug\net6.0\Task2.dll
+D:\GeekBrains\IntroducingToProgLang\HomeWorks\HomeWork2\Task2\obj\Debug\net6.0\refint\Task2.dll
+D:\GeekBrains\IntroducingToProgLang\HomeWorks\HomeWork2\Task2\obj\Debug\net6.0\Task2.pdb
+D:\GeekBrains\IntroducingToProgLang\HomeWorks\HomeWork2\Task2\obj\Debug\net6.0\Task2.genruntimeconfig.cache
+D:\GeekBrains\IntroducingToProgLang\HomeWorks\HomeWork2\Task2\obj\Debug\net6.0\ref\Task2.dll
