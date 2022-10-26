@@ -1,0 +1,15 @@
+D:\GeekBrains\IntroducingToProgLang\HomeWorks\HomeWork3\Task1\bin\Debug\net6.0\Task1.exe
+D:\GeekBrains\IntroducingToProgLang\HomeWorks\HomeWork3\Task1\bin\Debug\net6.0\Task1.deps.json
+D:\GeekBrains\IntroducingToProgLang\HomeWorks\HomeWork3\Task1\bin\Debug\net6.0\Task1.runtimeconfig.json
+D:\GeekBrains\IntroducingToProgLang\HomeWorks\HomeWork3\Task1\bin\Debug\net6.0\Task1.dll
+D:\GeekBrains\IntroducingToProgLang\HomeWorks\HomeWork3\Task1\bin\Debug\net6.0\Task1.pdb
+D:\GeekBrains\IntroducingToProgLang\HomeWorks\HomeWork3\Task1\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+D:\GeekBrains\IntroducingToProgLang\HomeWorks\HomeWork3\Task1\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\IntroducingToProgLang\HomeWorks\HomeWork3\Task1\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+D:\GeekBrains\IntroducingToProgLang\HomeWorks\HomeWork3\Task1\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+D:\GeekBrains\IntroducingToProgLang\HomeWorks\HomeWork3\Task1\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+D:\GeekBrains\IntroducingToProgLang\HomeWorks\HomeWork3\Task1\obj\Debug\net6.0\Task1.dll
+D:\GeekBrains\IntroducingToProgLang\HomeWorks\HomeWork3\Task1\obj\Debug\net6.0\refint\Task1.dll
+D:\GeekBrains\IntroducingToProgLang\HomeWorks\HomeWork3\Task1\obj\Debug\net6.0\Task1.pdb
+D:\GeekBrains\IntroducingToProgLang\HomeWorks\HomeWork3\Task1\obj\Debug\net6.0\Task1.genruntimeconfig.cache
+D:\GeekBrains\IntroducingToProgLang\HomeWorks\HomeWork3\Task1\obj\Debug\net6.0\ref\Task1.dll
