@@ -13,7 +13,7 @@ void printArr(int[] arr)
 Console.Write("Enter the number of elements of array: ");
 int num = Convert.ToInt32(Console.ReadLine());
 int[] arrInt = new int[num];
-if (num != 0)
+if (num > 0)
 {
     Console.Write("Enter the first element of array: ");
     for (int i = 0; i < arrInt.Length - 1; ++i)
