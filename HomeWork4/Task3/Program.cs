@@ -12,9 +12,9 @@ void printArr(int[] arr)
 
 Console.Write("Enter the number of elements of array: ");
 int num = Convert.ToInt32(Console.ReadLine());
-int[] arrInt = new int[num];
 if (num > 0)
 {
+    int[] arrInt = new int[num];
     Console.Write("Enter the first element of array: ");
     for (int i = 0; i < arrInt.Length - 1; ++i)
     {
@@ -23,6 +23,8 @@ if (num > 0)
     }
     arrInt[arrInt.Length - 1] = Convert.ToInt32(Console.ReadLine());
     printArr(arrInt);
-} else {
+}
+else
+{
     Console.WriteLine("No elements");
 }
